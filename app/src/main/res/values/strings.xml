@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">heartbeat</string>
+    <string name="name">이름</string>
+    <string name="age">나이</string>
+    <string name="gender">성별</string>
+    <string name="male">남자</string>
+    <string name="female">여자</string>
+    <string name="btn_start">시작하기</string>
+</resources>
